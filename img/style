@@ -1,0 +1,9 @@
+body,html {
+    height: 100px;
+    margin: 0px;
+}
+
+.bg {
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+}
